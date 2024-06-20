@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+/*視窗背景色設定*/
+body {
+    background-color: rgba(163, 125, 230, 0.5);
+    background-image: url(img/cat.pgn);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: 50px 70px;
+}
+
+/*連結顏色設定*/
+a{
+    color: brown;
+}
+
+/*頁首,導覽,頁尾的共通設定*/
+
+
+/*導覽樣式設定*/
+
+
+/*頁面標題設定*/
+h1{background-color: rgb(52, 196,  69);
+   color: rgb(255, 255,  255);
+   width: 300px;
+   margin:40px auto;
+   padding:30px;
+   border: 5px dotted rgb(30, 47, 5);
+   text-align: center ;
+   font-size: 300%;
+   line-height: 1;
+   border-radius: 50%;
+   box-shadow: 5px 5px 10px #000;
+   text-shadow: 5px 5px 10px #000;
+}
+
+/*次標題設定*/
+h2{
+    padding: 10px;
+    margin-bottom: 30px;
+    border: 1px dotted rgb(18, 160, 101);
+    border-left: 10px solid rgb(20, 102, 9);
+    color: rgb(26, 24, 156);
+}
+
+/*小標題設定*/
+.h-sub{
+    padding: 10px;
+    background-color: rgb(236, 161, 63);
+}
+
+/*內容區塊邊框設定*/
+
+
+/*「更多介紹」連結設定*/
+
+
+/*連結圖示設定*/
+
+
+/*區塊間分隔*/
+
+
+/*文繞圖設定*/
+
+
+/*圓形圖片設定*/
+.photo{
+    width: 480px;
+    height: 300px;
+}
+
+
